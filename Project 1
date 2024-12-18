@@ -1,0 +1,36 @@
+<html>
+<head>
+    <title> After class project</title>
+</head>
+<body>
+    <h2> Semantic elements in HTML</h2>
+<header>
+    <main>
+        <nav>
+            <h4> TIME School</h4>
+            <article>
+                <p>T.I.M.E. has over 31 years of experience in the education sector, during which it has established a country-wide network
+                of educational institutions and trained more than 22 lakh students. Due to the highly effective teaching and training
+                methods developed at T.I.M.E. it's students have consistently achieved the top ranks in competitive examinations across
+                the nation.
+                
+                With a proven track record in creating high achievers, T.I.M.E. is now starting to T.I.M.E. Started T.I.M.E. School with
+                a vision to create the same success.
+                
+                In about two decades T.I.M.E. has grown into a specialist, multi-location, multi-programme training provider running on
+                corporate lines. With 195 offices in 100 cities across the country, T.I.M.E. today is truly pan-national, but with a
+                local focus as well. The T.I.M.E. centres across the country are managed and run by highly qualified professionals - a
+                number of them from top management institutes like the IIMs/XLRI. For all these professionals, education is something
+                that is very close to their heart. Such highly qualified professionals with great love for education and wedded to the
+                philosophy of T.I.M.E. can only mean one thing - students get the best inputs for their preparation.</p>
+            <image>
+                <img src="TIME School.jpg" alt="TIME School">
+            </image>
+            </article>
+            </nav>
+            </main>
+            </header>
+            </body>
+            </html>
+        
+    
